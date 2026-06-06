@@ -3,7 +3,7 @@
 TorrentLister WLX is a Total Commander Lister plugin for viewing `.torrent` files directly inside Total Commander.
 
 It shows torrent metadata, trackers, hashes, private status, and the full file list in a clean WebView2 interface. It is a viewer only: it does not download files, announce to trackers, or contact the network. 
-It vide coded ;) hope you enjoy
+It is vibe coded of course but checked ;) hope you enjoy
 
 ## Screenshots
 
@@ -104,5 +104,6 @@ After installation, select a `.torrent` file and press `F3`.
 - No tracker request is made.
 - No remote UI assets are loaded.
 - The interface is stored inside the plugin file.
+- Virustotal: https://www.virustotal.com/gui/file/bc4d7b6fb4a9f4403687814a58640367f6efa39b4ccaf545df8765c2e9a6ce8a
 
-  Credit to themes: https://ohmyposh.dev/docs/themes
+  @Credit to themes: https://ohmyposh.dev/docs/themes for their amazing works
