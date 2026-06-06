@@ -104,3 +104,5 @@ After installation, select a `.torrent` file and press `F3`.
 - No tracker request is made.
 - No remote UI assets are loaded.
 - The interface is stored inside the plugin file.
+
+  Credit to themes: https://ohmyposh.dev/docs/themes
